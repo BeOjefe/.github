@@ -52,5 +52,5 @@ All BeOjefe repositories adhere to strict industrial development standards:
 
 - 🌐 **Official Studio**: [beojefe.com](https://beojefe.com)
 - 📊 **MEOCE Portal**: [meocehub.com](https://meocehub.com)
-- ✉️ **Inquiries & Partnerships**: [contact@beojefe.com](mailto:contact@beojefe.com)
+- ✉️ **Inquiries & Partnerships**: [contactmeoce@beojefe.com](mailto:contactmeoce@beojefe.com)
 - 📍 **Offices**: Casablanca · Libreville
